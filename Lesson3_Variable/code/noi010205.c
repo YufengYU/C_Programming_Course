@@ -7,6 +7,7 @@ int main()
     //a = 1.000000001;
     //b = a;
     //printf("%.9f %.9f\n", a, b);
+    printf("F E\n");
 
     return 0;
 }
