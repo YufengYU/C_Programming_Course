@@ -6,7 +6,7 @@ int main()
 	int n;
 	float xp = 0.0;
 	float ans = 0.0;
-    scanf("%f %d",&x,&n);
+	scanf("%f %d",&x,&n);
 	int i;
 	xp = 1.0;
 	for (i=0; i<=n; i++)
